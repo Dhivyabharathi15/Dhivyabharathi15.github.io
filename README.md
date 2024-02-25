@@ -1,9 +1,9 @@
-Data Analyst
+#Data Analyst
 
-#### Technical Skills: C, Python, SQL, Power BI, PyTorch, Tensorflow. 
+#### Technical Skills: Excel, SQL, Power BI. 
 
 ## Education
- - B.E. ECE
+ - B.C.A
 
 
 ## Work Experience
@@ -12,29 +12,9 @@ Data Analyst
   - Applied fundamental data cleaning techniques to improve accuracy and reliability
   - Contributed to defining and implementing KPIs
 
-*Cybersecurity Intern @ Ozone cybersecurity (May 2022 - Oct 2022)*
-  - Gained exposure to various cybersecurity challenges and defence methodologies
-  - Acquired hands-on experience in amateur penetration testing activities, gaining practical insights into cybersecurity vulnerabilities.
-
-
 ## Projects 
-### An Efficient Spectrum Accessing Technique In Cognitive Network Using Deep Learning Algorithm
-
-[Publication](https://ijireeice.com/papers/an-efficient-spectrum-accessing-technique-in-cognitive-network-using-deep-learning-algorithm/)
-
-Enhancements for spectrum sharing to facilitate uninterrupted secondary user transmission across the white band. Proposed and implemented a collaborative detection method, leveraging the power of Artificial Neural Network (ANN) and Feed Forward Neural Network (FFNN) to optimize spectrum sensing efficiency. Showed good performance, especially at low Signal-to-Noise Ratio (SNR), resulting in minimized delays and significantly improved throughput 
 
 
 ## Certifications
-  - Data Science
-  - AI/ML/DL
-  - Embedded Systems
-
-
-## Talks, Lectures & Workshops
-  - Quantum Computing @Shaastra 2021, IIT Madras (Mar 2021)
-  - Quantum Computing @IITDM Kurnool with CodeTantra (Jan 2021)
-  - Hacking Processors: An Unconventional Hacking Methodology @Shaastra2021, IIT Madras (Mar 2021)
-  - Control of Robotic Arm using Inverse Kinematics @Shaastra2021, IIT Madras (Mar 2021)
-  - Sixth Sense Robotics @PrismCode Info Solutions (Feb 2020)
-  - Antenna Design & Simulation at Pantech ProEd (Feb 2020)
+  - Data Analytics Essentials by CISCO
+ 
